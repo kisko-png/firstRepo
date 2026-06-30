@@ -1,2 +1,2 @@
 # firstRepo
-forFunises
+for funsies
